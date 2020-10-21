@@ -1,0 +1,6 @@
+	// *
+	// Name: Stephen Graham
+	// HW2
+	// Date: 10/20/2020
+	// git rep url: https://github.com/SGrahambo/HW2.git
+	// *
